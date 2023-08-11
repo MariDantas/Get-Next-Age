@@ -16,6 +16,10 @@ As this project doesn't use the HTTP protocol and requires running on a local se
 Visual Studio Code's "Live Server" feature acts as a local server, providing an easy way to execute and test applications without any complications. Although mainly intended for developers, it proves to be an interesting and useful tool for running this particular application.
 
 ## Update History
+
+### Part II
+* The application now returns "0" if the text box is erased.
+
 ### Part I
 * Release of the "Get Next Age" project.
 * The application is able to receive any inputs from the user and display the next age, however, it displays "NaN" when the text box is erased.
